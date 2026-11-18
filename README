@@ -1,19 +1,19 @@
-# Sweet Corner 🍰
+#Sweet Corner 🍰
 Personal text-based bakery management simulator developed in C#.
 
-## About
+##About
 Sweet Corner is a beginner-friendly management game where players run their own bakery.
 
 Players will manage money, purchase ingredients, bake products, serve customers and expand their business.
 
-## Technologies
+##Technologies
 - C#
 - .NET
 
-## Project Status
+##Project Status
 In development.
 
-## Features
+##Features
 - [x] Welcome screen
 - [x] Initial bakery statistics
 - [ ] Ingredient management
