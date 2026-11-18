@@ -1,0 +1,14 @@
+C:\Users\idant\SweetCorner\bin\Debug\net9.0\SweetCorner.exe
+C:\Users\idant\SweetCorner\bin\Debug\net9.0\SweetCorner.deps.json
+C:\Users\idant\SweetCorner\bin\Debug\net9.0\SweetCorner.runtimeconfig.json
+C:\Users\idant\SweetCorner\bin\Debug\net9.0\SweetCorner.dll
+C:\Users\idant\SweetCorner\bin\Debug\net9.0\SweetCorner.pdb
+C:\Users\idant\SweetCorner\obj\Debug\net9.0\SweetCorner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idant\SweetCorner\obj\Debug\net9.0\SweetCorner.AssemblyInfoInputs.cache
+C:\Users\idant\SweetCorner\obj\Debug\net9.0\SweetCorner.AssemblyInfo.cs
+C:\Users\idant\SweetCorner\obj\Debug\net9.0\SweetCorner.csproj.CoreCompileInputs.cache
+C:\Users\idant\SweetCorner\obj\Debug\net9.0\SweetCorner.dll
+C:\Users\idant\SweetCorner\obj\Debug\net9.0\refint\SweetCorner.dll
+C:\Users\idant\SweetCorner\obj\Debug\net9.0\SweetCorner.pdb
+C:\Users\idant\SweetCorner\obj\Debug\net9.0\SweetCorner.genruntimeconfig.cache
+C:\Users\idant\SweetCorner\obj\Debug\net9.0\ref\SweetCorner.dll
